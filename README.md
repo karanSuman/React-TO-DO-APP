@@ -1,6 +1,7 @@
 # React + Vite
 
 This is a Web Application For Our Daily To-DO Works Made by React-Js. Where You can Add Your Daily  Works With Date. And You Can Delete it too by Clicking the delete key.
+After Downloading The Source Code You have to Install the node modules, then the application will run in your system.
 
 ## Screenshots
 
